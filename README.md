@@ -1,10 +1,2 @@
-##Basic codes (29/02/2024) ##
-This file includes python codes for porgrams such as:
-
-> simple interest calculation,
-> compound interest calculation,
-> Armstrong number checking,
-> Prime number checking,
-> Prime numbers in a given interval,
-> Area of a circle,
-> Fibinocci series 
+### Basic Programs
+The python files uploaded in this repository includes codes for programs such as fibinocci series, factorial of a number, Armstrong number, dictionary, list, tuple manipulation etc. 
