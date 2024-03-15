@@ -1,1 +1,4 @@
+## Netflix Data analysis
+This project is done on the netflix dataset that contains data regarding different movies and TV shows added to netflix that has been released from the sapn of 1925 to 2021. This project explores the data, and visualises different attributes, helping us to understand the data better. Many python libraries such as pandas, numpy, matplotlib, seaborn etc. has ben used for this project. 
 
+(references: https://medium.com/@pelinokutan/analyzing-and-visualizing-data-from-a-csv-file-using-pandas-and-matplotlib-in-python-c729ce479683#:~:text=Member%2Donly%20story-,Analyzing%20and%20Visualizing%20Data%20from%20a%20CSV,Pandas%20and%20Matplotlib%20in%20Python&text=Data%20analysis%20is%20an%20essential,for%20data%20manipulation%20and%20visualization. , https://www.kaggle.com/learn/pandas )
